@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMartV2.Web", "EMartV2.Web\EMartV2.Web.csproj", "{FDAF9AA7-5AE6-4CBD-A56A-2D76EE4E5451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMartV2.BuisnessLayer", "EMartV2.Buisnesslayer\EMartV2.BuisnessLayer.csproj", "{D796CEB9-A3F2-4F07-B315-E621F66E0E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMartV2.DataLayer", "EMartV2.DataLayer\EMartV2.DataLayer.csproj", "{A0930DAD-E4EC-4A9F-A84B-5B9ABB9DA813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMartV2.Models", "EMartV2.Models\EMartV2.Models.csproj", "{0821CC57-34A3-4A63-836F-7B333876032E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMartv2.Tests", "EMartv2.Tests\EMartv2.Tests.csproj", "{AF9911E8-8E3A-4B42-9444-CB80931E7DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDAF9AA7-5AE6-4CBD-A56A-2D76EE4E5451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAF9AA7-5AE6-4CBD-A56A-2D76EE4E5451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAF9AA7-5AE6-4CBD-A56A-2D76EE4E5451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAF9AA7-5AE6-4CBD-A56A-2D76EE4E5451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D796CEB9-A3F2-4F07-B315-E621F66E0E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D796CEB9-A3F2-4F07-B315-E621F66E0E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D796CEB9-A3F2-4F07-B315-E621F66E0E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D796CEB9-A3F2-4F07-B315-E621F66E0E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0930DAD-E4EC-4A9F-A84B-5B9ABB9DA813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0930DAD-E4EC-4A9F-A84B-5B9ABB9DA813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0930DAD-E4EC-4A9F-A84B-5B9ABB9DA813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0930DAD-E4EC-4A9F-A84B-5B9ABB9DA813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0821CC57-34A3-4A63-836F-7B333876032E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0821CC57-34A3-4A63-836F-7B333876032E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0821CC57-34A3-4A63-836F-7B333876032E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0821CC57-34A3-4A63-836F-7B333876032E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF9911E8-8E3A-4B42-9444-CB80931E7DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9911E8-8E3A-4B42-9444-CB80931E7DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9911E8-8E3A-4B42-9444-CB80931E7DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9911E8-8E3A-4B42-9444-CB80931E7DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D1181E1-59A5-43F5-8C52-A8E142C0032E}
+	EndGlobalSection
+EndGlobal

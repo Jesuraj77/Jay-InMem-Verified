@@ -1,0 +1,13 @@
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Buisnesslayer\bin\Debug\netcoreapp2.1\EMartV2.BuisnessLayer.deps.json
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Buisnesslayer\bin\Debug\netcoreapp2.1\EMartV2.BuisnessLayer.dll
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Buisnesslayer\bin\Debug\netcoreapp2.1\EMartV2.BuisnessLayer.pdb
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Buisnesslayer\obj\Debug\netcoreapp2.1\EMartV2.BuisnessLayer.csprojAssemblyReference.cache
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Buisnesslayer\obj\Debug\netcoreapp2.1\EMartV2.BuisnessLayer.AssemblyInfoInputs.cache
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Buisnesslayer\obj\Debug\netcoreapp2.1\EMartV2.BuisnessLayer.AssemblyInfo.cs
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Buisnesslayer\obj\Debug\netcoreapp2.1\EMartV2.BuisnessLayer.dll
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Buisnesslayer\obj\Debug\netcoreapp2.1\EMartV2.BuisnessLayer.pdb
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Buisnesslayer\bin\Debug\netcoreapp2.1\EMartV2.DataLayer.dll
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Buisnesslayer\bin\Debug\netcoreapp2.1\EMartV2.Models.dll
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Buisnesslayer\bin\Debug\netcoreapp2.1\EMartV2.DataLayer.pdb
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Buisnesslayer\bin\Debug\netcoreapp2.1\EMartV2.Models.pdb
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Buisnesslayer\obj\Debug\netcoreapp2.1\EMartV2.BuisnessLayer.csproj.CopyComplete

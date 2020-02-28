@@ -1,0 +1,7 @@
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Models\bin\Debug\netcoreapp2.1\EMartV2.Models.deps.json
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Models\bin\Debug\netcoreapp2.1\EMartV2.Models.dll
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Models\bin\Debug\netcoreapp2.1\EMartV2.Models.pdb
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Models\obj\Debug\netcoreapp2.1\EMartV2.Models.AssemblyInfoInputs.cache
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Models\obj\Debug\netcoreapp2.1\EMartV2.Models.AssemblyInfo.cs
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Models\obj\Debug\netcoreapp2.1\EMartV2.Models.dll
+C:\Users\Vinod\source\repos\EMartV2\EMartV2.Models\obj\Debug\netcoreapp2.1\EMartV2.Models.pdb

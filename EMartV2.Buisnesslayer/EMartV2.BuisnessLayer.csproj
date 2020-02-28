@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EMartV2.DataLayer\EMartV2.DataLayer.csproj" />
+    <ProjectReference Include="..\EMartV2.Models\EMartV2.Models.csproj" />
+  </ItemGroup>
+
+</Project>
